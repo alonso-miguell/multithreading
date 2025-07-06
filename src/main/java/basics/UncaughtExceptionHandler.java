@@ -1,4 +1,4 @@
-package basics;
+package main.java.basics;
 
 public class UncaughtExceptionHandler {
 

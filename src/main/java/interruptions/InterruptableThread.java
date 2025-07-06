@@ -1,4 +1,4 @@
-package interruptions;
+package main.java.interruptions;
 
 
 public class InterruptableThread {

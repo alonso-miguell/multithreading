@@ -1,4 +1,4 @@
-package control;
+package main.java.control;
 
 import java.time.Duration;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -16,7 +16,7 @@ before throwing a memory exception
 # There is insufficient memory for the Java Runtime Environment to continue.
 # Native memory allocation (malloc) failed to allocate 1292720 bytes. Error detail: AllocateHeap
 # An error report file with more information is saved as:
-# F:\Home\Cursos\JAVA spring\multithreading\hs_err_pid17612.log
+# F:\Home\Cursos\JAVA spring\main.java.multithreading\hs_err_pid17612.log
 [280.758s][warning][os] Loading hsdis library failed
 
 Process finished with exit code 1
