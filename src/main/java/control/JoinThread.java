@@ -1,4 +1,4 @@
-package main.java.control;
+package control;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

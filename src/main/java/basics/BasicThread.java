@@ -1,4 +1,4 @@
-package main.java.basics;
+package basics;
 
 public class BasicThread {
 

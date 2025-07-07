@@ -1,4 +1,4 @@
-package main.java.multithreading;
+package multithreading;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
@@ -19,7 +19,7 @@ public class OptimizingForLatency {
 
         // Creates a copy of originalImage
         BufferedImage resultImage = new BufferedImage(
-                originalImage.getWidth() * 2, originalImage.getHeight() * 2, BufferedImage.TYPE_INT_RGB);
+                originalImage.getWidth(), originalImage.getHeight(), BufferedImage.TYPE_INT_RGB);
 
         long startTime = System.currentTimeMillis();
 

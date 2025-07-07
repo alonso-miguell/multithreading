@@ -1,4 +1,4 @@
-package main.java.control;
+package control;
 
 import java.time.Duration;
 import java.util.concurrent.atomic.AtomicInteger;
