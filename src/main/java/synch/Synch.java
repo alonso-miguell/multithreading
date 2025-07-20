@@ -1,4 +1,4 @@
-package main.java.synch;
+package synch;
 
 public class Synch {
 
